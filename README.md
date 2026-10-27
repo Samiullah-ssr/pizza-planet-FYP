@@ -171,9 +171,8 @@ npm start
 npm run dev
 ```
 
-Open **http://localhost:5173** for the customer site and **http://localhost:5173/admin** for the admin dashboard.
+Open **http://localhost:5173** for the customer site.
 
-> ⚠️ The setup script seeds a default admin account for local development. **Change its credentials before any real deployment.**
 
 ---
 
